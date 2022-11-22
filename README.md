@@ -9,9 +9,6 @@
 - 🌱 I’m currently learning **AWS cloud systems, Kubernetes,Docker, Angular and React**
 
 - 💬 Ask me about **Data analysis using Python, AWS cloud Architect solutions**
-
-- 📫 How to reach me **xolanemnisi@gmail.com**
-
 - 📄 Know about my experiences [www.linkedin.com/in/xolane-mnisi-82931970](www.linkedin.com/in/xolane-mnisi-82931970)
 
 - ⚡ Fun fact **Am a professional Seafarer, looking to transition from Sea to Cloud**
