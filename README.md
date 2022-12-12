@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Xolane Mnisi</h1>
-<h3 align="center">An aspiring Cloud Developer from South African</h3>
+<h3 align="center">An aspiring Cloud Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xolane-black&label=Profile%20views&color=0e75b6&style=flat" alt="xolane-black" /> </p>
